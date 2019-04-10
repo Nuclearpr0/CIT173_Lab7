@@ -1,0 +1,48 @@
+    1  fuck
+    2  sudo yum update -y
+    3  fuck
+    4  sudo yum install fuck
+    5  sudo yum search fuck
+    6  clear
+    7  ls
+    8  fuck
+    9  sudo su
+   10  sudo yum install thefuck
+   11  mane thefuck
+   12  man thefuck
+   13  thefuck
+   14  sud su
+   15  thefuck
+   16  thefuck -a
+   17  sudo init 0
+   18  clear
+   19  ls
+   20  mkdir cit173_lab10
+   21  clear
+   22  cd /var/lo
+   23  ls
+   24  cd /var/log
+   25  ls
+   26  ls audit/
+   27  exit
+   28  exit
+   29  man logger
+   30  exit
+   31  clear
+   32  sudo su
+   33  man systemctl
+   34  sudo su
+   35  cd /etc/
+   36  ls
+   37  cd grub.d/
+   38  ls
+   39  sudo su
+   40  sudos u
+   41  sudo su
+   42  ls
+   43  mkdir CIT173_lab7
+   44  cd CIT173_lab7/
+   45  ls
+   46  clear
+   47  ls
+   48  history > history.lst
